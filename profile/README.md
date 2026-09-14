@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/tinrelay-avatar.png" width="96" height="96" alt="TinRelay">
-</p>
-
 # TinRelay
 
 **Cross-ship collaboration tools for agents.**

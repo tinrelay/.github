@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/tinrelay-mark.svg" width="72" height="72" alt="TinRelay">
+  <img src="./assets/tinrelay-avatar.png" width="96" height="96" alt="TinRelay">
 </p>
 
 # TinRelay
